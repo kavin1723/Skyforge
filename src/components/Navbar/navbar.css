@@ -1,0 +1,20 @@
+@import url(https://db.onlinewebfonts.com/c/83e4a6b639612cd501853be5a7cf97ab?family=Trend+Sans+One+Regular);
+@import url(https://db.onlinewebfonts.com/c/a96b150094beee7934d27cc7fff32395?family=Trend+Sans+W00+Five);
+
+
+nav {
+    font-family: "Trend Sans One Regular";
+    width: 100%;
+    background: #281549;
+    color: #fff;
+    display: flex;
+}
+
+.logo{
+    width: 5%;
+    margin: 50px 0px 0px 140px;
+}
+
+.logo-text{
+    margin: 73px 0px 0px 10px;
+}

@@ -1,0 +1,81 @@
+@import url(https://db.onlinewebfonts.com/c/83e4a6b639612cd501853be5a7cf97ab?family=Trend+Sans+One+Regular);
+@import url(https://db.onlinewebfonts.com/c/a96b150094beee7934d27cc7fff32395?family=Trend+Sans+W00+Five);
+@import url(https://db.onlinewebfonts.com/c/d8c85d7f26cd3bf4d74f613bdbb0eca4?family=Proxima+Nova+A+Bold);
+
+
+/* font-family: "Trend Sans One Regular";
+font-family: "Trend Sans W00 Five"; 
+font-family: "Proxima Nova A Bold";*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #281549;
+    color: #fff;
+    display: flex;
+}
+
+.hero-text{
+    font-family: "Trend Sans W00 Five";
+}
+
+.hero-sub-text{
+    font-family: "Trend Sans One Regular";
+}
+
+.her0-button{
+    font-family: "Trend Sans One Regular";
+}
+
+.agent-text{
+  font-family: "Trend Sans W00 Five";
+
+}
+
+.agent-color{
+  font-family: "Trend Sans One Regular";
+}
+
+.agent-para{
+  font-family: "Proxima Nova A Bold";
+}
+
+.agent-button{
+  font-family: "Trend Sans One Regular";
+}
+
+.agent-radiant{
+  font-family: "Trend Sans One Regular";
+}
+
+.agent-dire{
+  font-family: "Trend Sans One Regular";
+}
+
+.agent-predict{
+  font-family: "Trend Sans One Regular";
+}
+
+.agent-sub-text{
+  font-family: "Trend Sans W00 Five";
+}
+
+.agent-para-two{
+  font-family: "Trend Sans One Regular";
+}
+
+.faq{
+    font-family: "Trend Sans One regular";
+}
+
+.faq-head{
+    font-family: "Trend Sans One regular";
+}
+
+.faq-para{
+  font-family: "Proxima Nova A Bold";
+}
+

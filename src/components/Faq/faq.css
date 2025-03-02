@@ -1,0 +1,49 @@
+
+
+.parent-one {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 8px;
+    margin-left: 200px;
+}
+    
+
+.parent-two {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    gap: 70px;
+    margin: 0px 100px 100px 150px;
+    
+}
+
+.faq{
+    font-size: 80px;
+    margin: 60px 0px 0px 140px;
+}
+
+.images{
+    width: 32%;
+    margin: 25px 0px 0px 0px;
+}
+
+.div-four{
+    border: 1px solid #fff;
+}
+
+.div-five{
+    border: 1px solid #fff;
+}
+
+.div-six{
+    border: 1px solid #fff;
+}
+
+.faq-head{
+    padding: 20px 0px 0px 30px;
+}
+
+.faq-para{
+    padding: 30px 30px 30px 40px;
+}
